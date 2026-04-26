@@ -1,2 +1,2 @@
-# Requiem-RUS-Lang-Pack-
-Russian localization for Requiem and its addons.
+# Requiem-RUS-Lang-Pack
+Russian localization for Requiem mod and its addons.
