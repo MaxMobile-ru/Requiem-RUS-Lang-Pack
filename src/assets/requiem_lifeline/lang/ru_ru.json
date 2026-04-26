@@ -1,0 +1,10 @@
+{
+  "item.requiem_lifeline.redstone_gold": "Тонированный золотой слиток",
+  "item.requiem_lifeline.toasted_gold": "Наполненный энергией золотой слиток",
+  "item.requiem_lifeline.wart_quartz": "Пятнистый кварц",
+  "item.requiem_lifeline.blaze_chunk": "Кусочек всполоха",
+  "item.requiem_lifeline.blaze_wart": "Пылающий нарост",
+  
+  "item.requiem_lifeline.tooltip.attrition_cure": "§7Lifeline - Лечит истощение %s",
+  "item.requiem_lifeline.tooltip.weakness": "§7Вызывает слабость"
+}
