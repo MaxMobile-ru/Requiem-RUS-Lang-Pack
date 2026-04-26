@@ -60,6 +60,7 @@
   "requiem:commands.soul.restore.success": "Успешно восстановлена душа у сущности %s",
 
   "requiem:container.obelisk_rift": "Перемещение",
+  "requiem:toast.rift_witnessed": "Перемещение подтверждено!",
 
   "requiem:block.minecraft.bed.invalid_body": "Эта форма не нуждается в сне",
 
@@ -93,6 +94,7 @@
   "requiem:subtitles.effect.phasing": "Игрок изменил форму",
   "requiem:subtitles.effect.possession.attempt": "Игрок вселяется в тело",
   "requiem:subtitles.effect.time.stop": "ZA WARUDO! TOKI WO TOMARE",
+  "requiem:subtitles.effect.reclamation.clear": "Восстановление завершено",
   "requiem:subtitles.entity.mortician.ambient": "Похоронщик гремит костями",
   "requiem:subtitles.entity.mortician.cast_spell": "Похоронщик накладывает заклятие",
   "requiem:subtitles.entity.mortician.death": "Похоронщик мёртв",
@@ -156,6 +158,7 @@
 
   "death.attack.requiem.attrition.hardcore": "%1$s был отправлен на тот свет. Навсегда.",
   "death.attack.requiem.attrition.hardcore.player": "%2$s отправил %1$s на тот свет. Навсегда.",
+  "death.attack.requiem.mortal_dysmorphia": "Душа %1$s больше не находится в теле %2$s.",
 
   "gamerule.requiem:showPossessorNameTag": "(Requiem) Показывать имя игрока",
   "gamerule.requiem:showPossessorNameTag.description": "Показывает имя игрока, когда тот находится в теле сущности",
@@ -163,9 +166,18 @@
   "gamerule.requiem:disableCure.description": "Отключает возможность излечить одержимое игроком тело нежити",
   "gamerule.requiem:startingRemnantType": "(Requiem) Тип остатка",
   "gamerule.requiem:startingRemnantType.description": "Заменяет тип остатка игрока после первой смерти",
+  "gamerule.requiem:startingRemnantType.choose": "выбор",
+  "gamerule.requiem:startingRemnantType.force_remnant": "остаток",
+  "gamerule.requiem:startingRemnantType.force_vanilla": "смертный",
   "gamerule.requiem:possessionKeepInventory": "(Requiem) Сохранять инвентарь после того, как вы покинули тело",
+  "gamerule.requiem:possessionKeepInventory.never": "никогда",
+  "gamerule.requiem:possessionKeepInventory.living": "до смерти",
+  "gamerule.requiem:possessionKeepInventory.always": "всегда",
   "gamerule.requiem:possessionDetection": "(Requiem) Чувствительность мобов к одержимости",
   "gamerule.requiem:possessionDetection.description": "Определяет, могут ли мобы вычислить игрока, вселившегося в тело им подобного",
+  "gamerule.requiem:possessionDetection.disabled": "отключено",
+  "gamerule.requiem:possessionDetection.normal": "нормально",
+  "gamerule.requiem:possessionDetection.hard": "сложно",
 
   "effect.requiem.attrition": "Истощение",
   "effect.requiem.emancipation": "Освобождение",
@@ -227,5 +239,7 @@
   "origins:power.requiem.mortal.name": "Возрождение",
   "origins:power.requiem.mortal.description": "Когда вы умрёте (если всё пойдёт, как обычно), вы окажетесь в точке возрождения с новым телом.",
 
-  "stat.requiem.interact_with_rift": "[Requiem] Взаимодействия с расщепителем душ"
+  "stat.requiem.interact_with_rift": "[Requiem] Взаимодействия с расщепителем душ",
+
+  "requiem.message.peaceful_despawn": "Этому существу нет места в таком спокойном и тихом мире"
 }
