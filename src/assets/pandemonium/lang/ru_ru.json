@@ -1,0 +1,16 @@
+{
+  "requiem:tooltip.witch_brew_base": "Основа для зелий",
+  "requiem:advancements.requiem.classic_look.title": "Классический вид",
+  "requiem:advancements.requiem.classic_look.description": "Вселитесь в эндермена",
+  "requiem:advancements.requiem.piglin_seppukku.title": "Что я наделал?",
+  "requiem:advancements.requiem.piglin_seppukku.description": "Заставьте зомбифицированного пиглина пожалеть о своих действиях",
+  "requiem:advancements.requiem.kung_fu_panda.title": "Кунг-фу Панда",
+  "requiem:advancements.requiem.kung_fu_panda.description": "Будучи пандой, ударьте кого-то деревянным мечом",
+  "pandemonium:commands.shell.split.fail.mortal": "Не удалось освободить дух игрока %s, так как он смертный",
+  "pandemonium:commands.shell.split.fail.vagrant": "Не удалось освободить дух игрока %s, так как он скитающийся дух",
+  "pandemonium:commands.shell.fail.not_shell": "%s не является телом игрока",
+  "entity.pandemonium.player_shell": "Тело игрока",
+  "config.pandemonium.possession": "Одержимость",
+  "config.pandemonium.allow_possessing_all_mobs": "Позволяет вселяться в тело любого моба",
+  "requiem:merge_hint": "Нажмите %s, чтобы вернуться в тело"
+}
