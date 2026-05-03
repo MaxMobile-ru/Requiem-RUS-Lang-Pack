@@ -241,5 +241,8 @@
 
   "stat.requiem.interact_with_rift": "[Requiem] Взаимодействия с расщепителем душ",
 
-  "requiem.message.peaceful_despawn": "Этому существу нет места в таком спокойном и тихом мире"
+  "requiem.message.peaceful_despawn": "Этому существу нет места в таком спокойном и тихом мире",
+
+  "ritual.requiem.ritual.decay_zombie": "Демоническое разложение (зомби)",
+  "ritual.requiem.ritual.decay_skeleton": "Демоническое разложение (скелет)"
 }
