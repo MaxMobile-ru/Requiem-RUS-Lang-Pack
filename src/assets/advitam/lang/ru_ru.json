@@ -1,0 +1,50 @@
+{
+  "advitam:materialize": "Нажмите %s, находясь в блоке, чтобы восстать из мёртвых.",
+  "advitam:spawn_changed": "Ваша точка смерти находится в точке %s в измерении %s.",
+
+  "item.advitam.roasted_spider_eye": "Запечённый паучий глаз",
+  "item.advitam.enigmatic_soul_vessel": "Загадочный сосуд душ",
+
+  "effect.advitam.second_wind": "Второе дыхание",
+  "effect.advitam.ruined": "Сломанный",
+  "effect.advitam.memento": "Memento",
+  "effect.advitam.bolstered": "Усиленный",
+  "effect.advitam.bulwark": "Барьер",
+
+  "advitam:enigmatic_soul_tooltip": "Свобода",
+  "requiem:remnant_type.advitam.wraith.name": "Призрак",
+  "advitam:opus.wraith_sentence": "NON OMNIS MORIAR",
+
+  "advitam:advancements.advitam.reanimation.title": "Ad Vitam",
+  "advitam:advancements.advitam.reanimation.description": "Добудьте сосуд из воздуха",
+  "advitam:advancements.advitam.anchor_attunement.title": "Неудачное возрождение",
+  "advitam:advancements.advitam.anchor_attunement.description": "Станьте Призраком, попытавшись использовать ванильную механику возрождения за Демона",
+  "advitam:advancements.advitam.roasted_spider_eye.title": "Обеденное пари",
+  "advitam:advancements.advitam.roasted_spider_eye.description": "Запеките паучий глаз",
+  "advitam:advancements.advitam.memento_converted.title": "Фантомная боль",
+  "advitam:advancements.advitam.memento_converted.description": "Получите эффект \"Истощение\" из-за действия Memento",
+  "advitam:advancements.advitam.host_rebellion.title": "Переворот",
+  "advitam:advancements.advitam.host_rebellion.description": "Похоже, что существо, в которое вы вселились, выкинуло вас из своего тела",
+
+
+  "gamerule.advitam:reanimationCap": "(AdVitam) Реанимация - лимит истощения",
+  "gamerule.advitam:reanimationCap.description": "Реанимация отключается при достижении определённого уровня истощения (0 полностью отключает реанимацию, -1 позволяет реанимировать себя всегда)",
+  "gamerule.advitam:reanimationCost": "(AdVitam) Реанимация - кол-во получаемого истощения",
+  "gamerule.advitam:reanimationCost.description": "Определяет, насколько сильно увеличится истощение после реанимации (0 отключает правило)",
+  "gamerule.advitam:hostRebellionAttrition": "(AdVitam) Восстание тела",
+  "gamerule.advitam:hostRebellionAttrition.description": "При достижении определённого уровня \"Истощения\" тело изгоняет демона из себя (-1 отключает правило)",
+  "gamerule.advitam:mementoDuration": "(AdVitam) Memento - Продолжительность",
+  "gamerule.advitam:mementoDuration.description": "Базовая продолжительность эффекта Memento (0 отключает эффект Memento)",
+  "gamerule.advitam:mementoConversion": "(AdVitam) Memento - Коэффициент конверсии",
+  "gamerule.advitam:mementoConversion.description": "Определяет, как конвертируется эффект Memento в эффект \"Истощение\" (0 отключает эффект Memento)",
+  "gamerule.advitam:mementoScales": "(AdVitam) Memento - Прогрессия",
+  "gamerule.advitam:mementoScales.description": "Определяет, будет ли линейно увеличиваться продолжительность эффекта Memento",
+  "gamerule.advitam:secondWindDuration": "(AdVitam) Продолжительность \"Второго дыхания\"",
+  "gamerule.advitam:secondWindDuration.description": "Базовая продолжительность эффекта \"Второе дыхание\" (0 отключает эффект)",
+  "gamerule.advitam:passiveDetectionMaxRange": "(AdVitam) Пассивное обнаружение - Максимальное расстояние",
+  "gamerule.advitam:passiveDetectionMaxRange.description": "Максимальное расстояние, в пределах которого враждебные мобы могут стать агрессивным к игроку",
+  "gamerule.advitam:passiveDetectionSafetyMultiplier": "(AdVitam) Пассивное обнаружение - Множитель самозащиты",
+  "gamerule.advitam:passiveDetectionSafetyMultiplier.description": "Пассивное обнаружение не будет активироваться, если в области, вычисляемой по формуле: Максимальное расстояние * Множитель самозащиты, - есть агрессивный моб",
+  "gamerule.advitam:attritionSoftlock": "(AdVitam) Максимальный уровень \"Истощения\"",
+  "gamerule.advitam:attritionSoftlock.description": "После достижения заданного уровня \"Истощения\" игрок не сможет больше вселяться в мобов (-1 отключает правило)"
+}
